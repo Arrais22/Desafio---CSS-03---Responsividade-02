@@ -5,6 +5,7 @@ O projeto tem a intenção principal de treinar e exercitar a responsividade, on
 <br>
 <br>
 Foi utilizado no projeto as tecnologias que seguem a baixo:
+<br>
 - HTML
 <br>
 - CSS
