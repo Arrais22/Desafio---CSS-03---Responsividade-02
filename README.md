@@ -17,4 +17,4 @@ Foi utilizado no projeto as tecnologias que seguem a baixo:
 <br>
 <h2>Essa é a versão para celular</h2>
 <br>
-<img src=
+<img src="https://github.com/Arrais22/We-Care/blob/master/Assets/we%20care%20-%20celular.jpg?raw=true"
