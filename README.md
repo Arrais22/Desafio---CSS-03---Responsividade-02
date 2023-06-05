@@ -12,9 +12,9 @@ Foi utilizado no projeto as tecnologias que seguem a baixo:
 <br>
 <h2>Essa é a versão Desktop</h2> 
 <br>
-<img src="https://github.com/Arrais22/Wide-Coverage-Location/blob/master/assets/imagem%20web.jpg?raw=true"/>
+<img src=
 <br>
 <br>
 <h2>Essa é a versão para celular</h2>
 <br>
-<img src="https://github.com/Arrais22/Wide-Coverage-Location/blob/master/assets/imagem%20celular.jpg?raw=true"/>
+<img src=
