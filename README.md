@@ -13,7 +13,7 @@ Foi utilizado no projeto as tecnologias que seguem a baixo:
 <br>
 <h2>Essa é a versão Desktop</h2> 
 <br>
-<img src="https://raw.githubusercontent.com/Arrais22/We-Care/master/Assets/We%20Care%20-%20Deckstop.jpg"
+<img src="https://raw.githubusercontent.com/Arrais22/We-Care/master/Assets/We%20Care%20-%20Deckstop.jpg">
 <br>
 <h2>Essa é a versão para celular</h2>
 <br>
